@@ -1,2 +1,2 @@
 # Tesoreria
-# Iglesia Central Adventista
+Iglesia Central Adventista
